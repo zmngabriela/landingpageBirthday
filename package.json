@@ -5,7 +5,6 @@
   },
   "name": "36-landingpagebirthday",
   "version": "1.0.0",
-  "main": "index.js",
   "dependencies": {
     "abortcontroller-polyfill": "^1.7.5",
     "ansi-styles": "^4.3.0",
