@@ -1,6 +1,6 @@
 AOS.init();
 
-const eventDay = new Date("Jun 8, 2024 17:00:00");
+const eventDay = new Date("Feb 26, 2025 9:00:00");
 const eventTimestamp = eventDay.getTime();
 
 const timeCounting = setInterval(function() {
